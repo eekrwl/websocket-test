@@ -3,7 +3,7 @@
 ws://localhost:8080/idrop
 
 **임시배포** 2024.02.08 11:00AM
-ws://0.tcp.jp.ngrok.io:15520/idrop
+ws://0.tcp.jp.ngrok.io:14753/idrop
 
 - ngrok으로 프론트와 연결되는지 테스트 예정
 
